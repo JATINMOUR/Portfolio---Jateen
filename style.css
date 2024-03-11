@@ -339,7 +339,7 @@ h2 .Surename {
   height: auto;
   border-radius: 5%;
   box-shadow: 0 5px 10px rgba(14, 13, 13, 0.6);
-  mix-blend-mode: hard-light;
+  mix-blend-mode: hluminosity;
   transition: 0.3s;
   cursor: pointer;
 }
